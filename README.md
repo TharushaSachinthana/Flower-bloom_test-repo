@@ -42,34 +42,6 @@ This command will automatically compile style.scss into style.css whenever chang
 
 Open the index.html file in your web browser to view the project locally.
 
-### Customizing the Project
-Feel free to customize the project to suit your preferences. Here’s how you can make changes:
-
-**Change Colors**
-
-Modify the style.scss file to change colors. Look for CSS variables or classes related to colors and update them as desired.
-
-**Change Flower Type**
-
-**To change the type of flowers or the flower images:**
-
-Locate the flower images in your project folder (e.g., images/ directory).
-Replace the existing flower image files with new ones of your choice.
-Update the image paths in the style.scss file if necessary.
-Add Your Own Pictures
-
-**To add your own pictures:**
-
-Place your images in the images/ directory.
-Update the style.scss file to include references to your new images.
-Contributing
-**Feel free to contribute to this project by:**
-
-Creating issues
-Submitting pull requests
-Providing feedback
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 **Happy coding and enjoy the beautiful blooming flowers! 🌸**
